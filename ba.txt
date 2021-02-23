@@ -1,0 +1,100 @@
+1: Everyone is permitted to copy and distribute verbatim copies
+2:strategy to use in any particular case, based on the explanations below.
+3:"work based on the library" and a "work that uses the library".  The
+4:which has been distributed under these terms.  A "work based on the
+5:portion of it, either verbatim or with modifications and/or translated
+6:such a program is covered only if its contents constitute a work based
+7:  1. You may copy and distribute verbatim copies of the Library's
+8:of it, thus forming a work based on the Library, and copy and
+9:distribute the same sections as part of a whole which is a work based
+10:collective works based on the Library.
+11:In addition, mere aggregation of another work not based on the Library
+12:with the Library (or with a work based on the Library) on a volume of
+13:  7. You may place library facilities that are a work based on the
+14:library, provided that the separate distribution of the work based on
+15:    based on the Library, uncombined with any other library
+16:    that part of it is a work based on the Library, and explaining
+17:modifying or distributing the Library (or any work based on the
+18:the Library or works based on it.
+19:  10. Each time you redistribute the Library (or any work based on the
+20:particular circumstance, the balance of the section is intended to apply,
+1: Everyone is permitted to copy and distribute verbatim copies
+2:strategy to use in any particular case, based on the explanations below.
+3:"work based on the library" and a "work that uses the library".  The
+4:which has been distributed under these terms.  A "work based on the
+5:portion of it, either verbatim or with modifications and/or translated
+6:such a program is covered only if its contents constitute a work based
+7:  1. You may copy and distribute verbatim copies of the Library's
+8:of it, thus forming a work based on the Library, and copy and
+9:distribute the same sections as part of a whole which is a work based
+10:collective works based on the Library.
+11:In addition, mere aggregation of another work not based on the Library
+12:with the Library (or with a work based on the Library) on a volume of
+13:  7. You may place library facilities that are a work based on the
+14:library, provided that the separate distribution of the work based on
+15:    based on the Library, uncombined with any other library
+16:    that part of it is a work based on the Library, and explaining
+17:modifying or distributing the Library (or any work based on the
+18:the Library or works based on it.
+19:  10. Each time you redistribute the Library (or any work based on the
+20:particular circumstance, the balance of the section is intended to apply,
+1: Everyone is permitted to copy and distribute verbatim copies
+2:strategy to use in any particular case, based on the explanations below.
+3:"work based on the library" and a "work that uses the library".  The
+4:which has been distributed under these terms.  A "work based on the
+5:portion of it, either verbatim or with modifications and/or translated
+6:such a program is covered only if its contents constitute a work based
+7:  1. You may copy and distribute verbatim copies of the Library's
+8:of it, thus forming a work based on the Library, and copy and
+9:distribute the same sections as part of a whole which is a work based
+10:collective works based on the Library.
+11:In addition, mere aggregation of another work not based on the Library
+12:with the Library (or with a work based on the Library) on a volume of
+13:  7. You may place library facilities that are a work based on the
+14:library, provided that the separate distribution of the work based on
+15:    based on the Library, uncombined with any other library
+16:    that part of it is a work based on the Library, and explaining
+17:modifying or distributing the Library (or any work based on the
+18:the Library or works based on it.
+19:  10. Each time you redistribute the Library (or any work based on the
+20:particular circumstance, the balance of the section is intended to apply,
+1: Everyone is permitted to copy and distribute verbatim copies
+2:strategy to use in any particular case, based on the explanations below.
+3:"work based on the library" and a "work that uses the library".  The
+4:which has been distributed under these terms.  A "work based on the
+5:portion of it, either verbatim or with modifications and/or translated
+6:such a program is covered only if its contents constitute a work based
+7:  1. You may copy and distribute verbatim copies of the Library's
+8:of it, thus forming a work based on the Library, and copy and
+9:distribute the same sections as part of a whole which is a work based
+10:collective works based on the Library.
+11:In addition, mere aggregation of another work not based on the Library
+12:with the Library (or with a work based on the Library) on a volume of
+13:  7. You may place library facilities that are a work based on the
+14:library, provided that the separate distribution of the work based on
+15:    based on the Library, uncombined with any other library
+16:    that part of it is a work based on the Library, and explaining
+17:modifying or distributing the Library (or any work based on the
+18:the Library or works based on it.
+19:  10. Each time you redistribute the Library (or any work based on the
+20:particular circumstance, the balance of the section is intended to apply,
+1: Everyone is permitted to copy and distribute verbatim copies
+2:strategy to use in any particular case, based on the explanations below.
+3:"work based on the library" and a "work that uses the library".  The
+4:which has been distributed under these terms.  A "work based on the
+5:portion of it, either verbatim or with modifications and/or translated
+6:such a program is covered only if its contents constitute a work based
+7:  1. You may copy and distribute verbatim copies of the Library's
+8:of it, thus forming a work based on the Library, and copy and
+9:distribute the same sections as part of a whole which is a work based
+10:collective works based on the Library.
+11:In addition, mere aggregation of another work not based on the Library
+12:with the Library (or with a work based on the Library) on a volume of
+13:  7. You may place library facilities that are a work based on the
+14:library, provided that the separate distribution of the work based on
+15:    based on the Library, uncombined with any other library
+16:    that part of it is a work based on the Library, and explaining
+17:modifying or distributing the Library (or any work based on the
+18:the Library or works based on it.
+19:  10. Each time you redistribute the Library (or any work based on the
+20:particular circumstance, the balance of the section is intended to apply,
