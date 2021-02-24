@@ -6,19 +6,18 @@ for i in range(0,input_word):
     user_search_input=input("enter the words: ")
     output=[]
     lines=0
-    pattern=re.compile(user_search_input,re.I)
-    with open ("input_file.txt","rt")as file_input:
-        for file_line in file_input:
-            #file_input= file_input.split(" ")
-            lines+=1
-            if pattern.search(file_line)!=None:
-                output.append((lines,file_line.rstrip('\n')))
-        for string in output:
-            count+=1
-            with open("{}.txt".format(user_search_input),'a') as file_output:
-                file_output.writelines(str(count)+':')
-                file_output.writelines(string[1]+'\n') 
-    print(count)
+    pattern=re.match(r'^user_search_input',re.I)
+with open ("input_file.txt","rt")as file_input:
+    for file_line in file_input:
+        lines+=1
+        if pattern.search(file_line)!=None:
+            output.append((lines,file_line.rstrip('\n')))
+    for string in output:
+        count+=1
+        with open("{}.txt".format(user_search_input),'a') as file_output:
+            file_output.writelines(str(count)+':')
+            file_output.writelines(string[1]+'\n') 
+print(count)
            
 
 
