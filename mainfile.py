@@ -30,8 +30,8 @@ class text_processing:
             output=[]
             lines=0
             #1r'^test-\d+$'
-            pattern=re.compile(r'self.search_pat$',re.I)    
-           # pattern=re.compile(self.search_pat,re.I|re.M)    
+            #pattern=re.compile(r'self.search_pat$',re.I)    
+            pattern=re.findall(self.search_pat,re.I|re.M)    
             with open (self.file_name,"rt")as file_input:
                 for file_line in file_input:
                     lines+=1
