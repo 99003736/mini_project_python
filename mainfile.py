@@ -17,28 +17,24 @@ class text_processing:
 
     def __init__(self,file_name):
         self.file_name = file_name
-        #input_word=int(input('enter_the_number_of_lines:'))
-       
+      
+        
         
     def search(self):
         input_word=int(input('enter_the_number_of_words:'))
-        #self.search_pat = input("enter the words: ")'''
         for i in range(0,input_word):
             count=0
-            self.search_pat = input("enter the words: ")
-
+            self.search_pat = input("enter the words: ") 
             output=[]
             lines=0
-            #1r'^test-\d+$'
-            #pattern=re.compile(r'self.search_pat$',re.I)    
-            pattern=re.findall(self.search_pat,re.I|re.M)    
+            
+            pattern=re.compile(self.search_pat,re.I|re.M)   
             with open (self.file_name,"rt")as file_input:
+               
+                #print(re.split('\W+',str(file_input)))
                 for file_line in file_input:
                     lines+=1
-                    '''file_line=re.sub("\W"," ",file_line)
-                    L=(file_line).split()
-                    L=list(L)'''
-                    #if file_line in lines:
+
                     if pattern.search(file_line)!=None:
                         output.append((lines,file_line.rstrip('\n')))
                 for string in output:

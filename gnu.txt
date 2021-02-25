@@ -1,16 +1,17 @@
-1:                  GNU LESSER GENERAL PUBLIC LICENSE
-2: as the successor of the GNU Library Public License, version 2, hence
-3:freedom to share and change it.  By contrast, the GNU General Public
-4:  Most GNU software, including some libraries, is covered by the
-5:ordinary GNU General Public License.  This license, the GNU Lesser
-6:free software.  For example, permission to use the GNU C Library in
-7:non-free programs enables many more people to use the whole GNU
-8:operating system, as well as its variant, the GNU/Linux operating
-9:                  GNU LESSER GENERAL PUBLIC LICENSE
-10:  3. You may opt to apply the terms of the ordinary GNU General Public
-11:that they refer to the ordinary GNU General Public License, version 2,
-12:ordinary GNU General Public License has appeared, then you can specify
-13:that copy, so the ordinary GNU General Public License applies to all
-14:    modify it under the terms of the GNU Lesser General Public
-15:    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-16:    You should have received a copy of the GNU Lesser General Public
+1: GNU LESSER
+2:the GNU Library
+3:the GNU General
+4:Most GNU software
+5:ordinary GNU General
+6:the GNU Lesser
+7:the GNU C
+8:whole GNU operating
+9:the GNU Linux
+10:run GNU LESSER
+11:ordinary GNU General
+12:ordinary GNU General
+13:ordinary GNU General
+14:ordinary GNU General
+15:the GNU Lesser
+16:the GNU Lesser
+17:the GNU Lesser
