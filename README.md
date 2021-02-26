@@ -15,3 +15,8 @@ step6:using the regular expression re.full match we are matching the word
 step7:after the matching the word it will append into a output file 
 
 step8:it will display that number of times word has occurred  
+
+
+                                                                       class diagram of the code:
+
+![python](https://user-images.githubusercontent.com/78848632/109295851-770fa780-7855-11eb-8cea-5f4095fc5743.jpg)
