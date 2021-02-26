@@ -18,7 +18,7 @@ class text_processing:  # creating the class of text_processing
 class find(text_processing):  # calling parent class in the child class
     def search(self):
         # enter the number of words u need to search
-        search = int(input('enter the :'))
+        search = int(input('enter the number of words to search :'))
         # loop for number of words u need to search
         for i in range(0, search):
             count = 0
